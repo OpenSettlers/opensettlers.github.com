@@ -1,0 +1,12 @@
+You will find the latest OpenSettlers build here. Currently, the latest version is Alpha4. A rough roadmap:
+
+alpha5 -> Stable playing versus bots
+alpha6 -> Networked playing, wiki integration, HTML Canvas rendering
+beta1 -> more UI polishing
+beta2 -> loose bugs
+beta3 -> full wiki content
+beta4 -> smooth gameplay for hotseat, bots and network games
+beta5 -> fullfeatured game without glitches
+beta6 -> last bugs squashed
+1.0 -> Full featured gameplay for Standard
+1.x -> more variants
